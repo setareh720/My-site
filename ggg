@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>معرفی کانال تلگرام</title>
+    <style>
+        body {
+            font-family: 'Tahoma', sans-serif;
+            background-color: #121212;
+            color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            direction: rtl;
+        }
+        header {
+            background: linear-gradient(90deg, #0f2027, #203a43, #2c5364);
+            padding: 20px;
+            text-align: center;
+            font-size: 2rem;
+            font-weight: bold;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        a.telegram-link {
+            display: inline-block;
+            background-color: #0088cc;
+            color: white;
+            padding: 12px 25px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+            margin-top: 10px;
+        }
+        a.telegram-link:hover {
+            background-color: #005f99;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #222;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+            font-size: 0.9rem;
+            color: #bbb;
+        }
+    </style>
+</head>
+<body>
+    <header>معرفی کانال تلگرام</header>
+    <main>
+        <img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-JM0N7kLbEmZ0TaWVDuBTyT9B/user-7HMXVDMZJKkBJo3U0x0DLuAj/img-4ZZk0ZoTogOTjhFf4cw0JWso.png?st=2024-05-22T13%3A20%3A00Z&se=2024-05-23T13%3A20%3A00Z&sp=r&sv=2021-08-06&sr=b&sig=5XbcQ9FeV6DDUeyjApRRYIAcH8o7Scu%2FzqkOE7ODg7k%3D" alt="Call of Duty - Ghost and Female Soldier" />
+        <p>به کانال تلگرام ما خوش آمدید! برای دسترسی به محتواهای ویژه، روی دکمه زیر کلیک کنید.</p>
+        <a class="telegram-link" href="https://t.me/YourChannelName" target="_blank">ورود به کانال تلگرام</a>
+    </main>
+    <footer>© 2025 Call of Duty Fan Site</footer>
+</body>
+</html>
